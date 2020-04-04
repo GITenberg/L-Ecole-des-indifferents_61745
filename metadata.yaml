@@ -1,5 +1,8 @@
 _repo: L-Ecole-des-indifferents_61745
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61745-h/images/cover.jpg
 creator:
   author:
     agent_name: Giraudoux, Jean
@@ -17,6 +20,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Jean_Giraudoux
     - https://en.wikipedia.org/wiki/Jean_Giraudoux
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61745#L-Ecole-des-indifferents
 gutenberg_issued: '2020-04-03'
 gutenberg_type: Text
 identifiers:
